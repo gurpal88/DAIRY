@@ -1,0 +1,7 @@
+{
+  "name": "DairyPro APK",
+  "description": "A high-performance Android-optimized dairy management system with offline support and local file storage capabilities.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
